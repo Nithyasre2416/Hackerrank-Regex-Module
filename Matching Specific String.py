@@ -1,1 +1,1 @@
-Regex_Pattern = r'_________'	# Do not delete 'r'.
+Regex_Pattern = r'hackerrank'   # Do not delete 'r'.
